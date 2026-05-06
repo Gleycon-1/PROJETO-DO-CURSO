@@ -6,7 +6,7 @@ O **MAIN_SYSTEM_PAYROLL** é um motor de processamento de folha de pagamento des
 ## 📊 FLUXOGRAMA DE LÓGICA
 O sistema segue uma estrutura lógica de decisão e repetição para garantir que nenhum dado seja processado incorretamente.
 
-![Fluxograma do Sistema](./fluxograma.png)
+![Fluxograma do Sistema](./Screenshot_20260505-233015~2.png)
 *O diagrama acima detalha o percurso desde a entrada de dados via Scanner até a persistência no ArrayList.*
 
 ## 🚀 FUNCIONALIDADES
